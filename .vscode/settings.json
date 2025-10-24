@@ -50,5 +50,6 @@
         "typeinfo": "cpp",
         "random": "cpp",
         "thread": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "/home/nik/Plocha/Programing/C++/Platformio/RBCX-osekany_robot/lib/Adafruit BusIO"
 }
